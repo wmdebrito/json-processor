@@ -61,7 +61,7 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <finalName>sumReactProj</finalName>
+                            <finalName>json-processor</finalName>
                         </configuration>
                     </execution>
                 </executions>
